@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 init line1st commit
 2st commit
 3rd commit
+=======
+<<<<<<< HEAD
+init line
+=======
+init line1st commit
+2st commit
+3rd commit
+>>>>>>> e7c4b23... 3rd commit
+>>>>>>> master
